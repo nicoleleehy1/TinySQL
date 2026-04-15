@@ -1,0 +1,11 @@
+order_id,employee_id,product,amount,status
+101,1,Laptop,2499.99,shipped
+102,3,Monitor,649.50,delivered
+103,2,Keyboard,89.00,pending
+104,7,Laptop,2499.99,delivered
+105,5,Headset,199.99,shipped
+106,1,Desk Chair,450.00,delivered
+107,4,Mouse,39.99,pending
+108,9,Monitor,649.50,delivered
+109,6,Webcam,129.00,pending
+110,10,Laptop,2499.99,shipped

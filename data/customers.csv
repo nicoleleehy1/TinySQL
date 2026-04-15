@@ -1,0 +1,121 @@
+id,name,city,account_balance
+1,Alice,Austin,6429.69
+2,Bob,Denver,7440.61
+3,Carol,Boston,2309.56
+4,Dave,Seattle,6798.65
+5,Eve,Miami,960.61
+6,Frank,Boston,414.62
+7,Grace,Seattle,2264.3
+8,Henry,Seattle,6059.38
+9,Iris,Seattle,2068.29
+10,Jack,New York,4252.83
+11,Karen,Austin,5933.14
+12,Leo,Chicago,7611.43
+13,Mia,Los Angeles,7010.88
+14,Nate,Denver,2850.65
+15,Olivia,Los Angeles,9575.45
+16,Paul,Miami,1111.78
+17,Quinn,Los Angeles,1057.4
+18,Rose,Austin,6076.28
+19,Sam,Seattle,7323.61
+20,Tara,Miami,1335.65
+21,Uma,Houston,880.04
+22,Victor,San Francisco,8310.28
+23,Wendy,Los Angeles,8865.09
+24,Xander,Boston,5815.21
+25,Yara,Denver,553.62
+26,Zoe,Boston,7752.6
+27,Aaron,Boston,8566.79
+28,Beth,New York,3862.87
+29,Carlos,Los Angeles,6392.64
+30,Diana,Los Angeles,1710.11
+31,Ethan,Houston,2173.91
+32,Fiona,Boston,7047.32
+33,George,Chicago,6129.79
+34,Hannah,Denver,5387.45
+35,Ivan,Miami,1717.52
+36,Julia,Seattle,2772.21
+37,Kevin,Los Angeles,2273.97
+38,Laura,Austin,8443.39
+39,Marco,Austin,2367.35
+40,Nina,Miami,8069.15
+41,Oscar,Denver,2750.37
+42,Petra,San Francisco,9139.13
+43,Ray,Los Angeles,8775.16
+44,Sofia,New York,2204.79
+45,Tom,New York,4016.36
+46,Ursula,Chicago,1514.29
+47,Vince,Seattle,2541.37
+48,Wilma,San Francisco,5435.34
+49,Xavier,San Francisco,4341.07
+50,Yasmin,Denver,4053.67
+51,Alice2,Chicago,9972.53
+52,Bob2,Boston,5143.8
+53,Carol2,Boston,7581.49
+54,Dave2,Chicago,1612.98
+55,Eve2,Miami,7940.79
+56,Frank2,Miami,6003.85
+57,Grace2,New York,3877.65
+58,Henry2,Seattle,5337.7
+59,Iris2,Austin,8620.86
+60,Jack2,Boston,6834.13
+61,Karen2,Seattle,6848.25
+62,Leo2,Los Angeles,7532.94
+63,Mia2,Miami,1204.25
+64,Nate2,Austin,1665.6
+65,Olivia2,Houston,9541.82
+66,Paul2,Chicago,9720.72
+67,Quinn2,Boston,5125.54
+68,Rose2,Houston,8717.26
+69,Sam2,Seattle,8431.68
+70,Tara2,Chicago,6128.2
+71,Uma2,Chicago,3801.37
+72,Victor2,Seattle,5439.31
+73,Wendy2,San Francisco,9192.17
+74,Xander2,Austin,3308.82
+75,Yara2,Los Angeles,1207.38
+76,Zoe2,Houston,8798.47
+77,Aaron2,Denver,2470.34
+78,Beth2,Boston,8791.42
+79,Carlos2,New York,947.88
+80,Diana2,Seattle,8177.81
+81,Ethan2,Chicago,7681.0
+82,Fiona2,Seattle,6630.87
+83,George2,Seattle,1734.59
+84,Hannah2,Miami,8736.21
+85,Ivan2,Seattle,9646.23
+86,Julia2,Denver,7576.37
+87,Kevin2,Miami,7157.48
+88,Laura2,Los Angeles,9950.98
+89,Marco2,Seattle,4436.75
+90,Nina2,Denver,4569.26
+91,Oscar2,Los Angeles,2324.28
+92,Petra2,Seattle,308.22
+93,Ray2,Denver,2377.91
+94,Sofia2,Austin,171.18
+95,Tom2,Austin,2366.29
+96,Ursula2,Boston,8609.53
+97,Vince2,Houston,5189.63
+98,Wilma2,Denver,6722.21
+99,Xavier2,San Francisco,5437.88
+100,Yasmin2,Denver,5803.92
+101,Alice3,Miami,7866.95
+102,Bob3,Boston,1984.87
+103,Carol3,Los Angeles,6623.27
+104,Dave3,New York,4293.0
+105,Eve3,Austin,8651.12
+106,Frank3,Boston,6765.64
+107,Grace3,Los Angeles,700.0
+108,Henry3,Boston,8025.07
+109,Iris3,Denver,2561.45
+110,Jack3,Chicago,5408.69
+111,Karen3,Houston,4276.21
+112,Leo3,Boston,4679.56
+113,Mia3,Seattle,4486.55
+114,Nate3,Seattle,1069.2
+115,Olivia3,Boston,8375.84
+116,Paul3,Denver,9270.11
+117,Quinn3,New York,1746.31
+118,Rose3,Miami,4864.97
+119,Sam3,Chicago,9033.28
+120,Tara3,Miami,3851.45

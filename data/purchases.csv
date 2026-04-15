@@ -1,0 +1,121 @@
+purchase_id,customer_id,product,price,quantity
+1,34,Headset,2317.02,4
+2,55,Charger,1744.5,5
+3,20,Laptop,482.84,2
+4,75,Webcam,1841.98,1
+5,8,USB Hub,134.84,4
+6,118,Laptop,2133.26,2
+7,66,Monitor,209.47,2
+8,77,Desk Chair,179.21,2
+9,16,Mouse,2354.56,5
+10,75,Monitor,1490.34,5
+11,54,USB Hub,1646.85,5
+12,41,Webcam,2337.41,2
+13,31,Headset,671.37,2
+14,59,Laptop,797.27,1
+15,59,Monitor,1556.68,5
+16,10,Headset,1348.7,5
+17,17,Mouse,2333.81,1
+18,48,USB Hub,719.61,4
+19,91,Laptop,763.26,5
+20,86,Monitor,2044.58,3
+21,113,Monitor,344.37,1
+22,96,Headset,1387.52,3
+23,78,Mouse,534.46,3
+24,88,USB Hub,1589.24,3
+25,63,Monitor,635.28,1
+26,82,Laptop,1064.69,3
+27,1,Headset,840.55,2
+28,21,Desk Chair,1855.65,5
+29,72,Keyboard,34.07,1
+30,70,Microphone,99.7,3
+31,71,Laptop,378.74,2
+32,40,Webcam,917.97,1
+33,27,Webcam,1708.34,1
+34,100,Microphone,1404.1,4
+35,96,Keyboard,394.83,2
+36,103,Laptop,2028.81,4
+37,23,Desk Chair,1844.04,3
+38,103,Headset,1678.06,2
+39,21,Desk Chair,1970.55,1
+40,112,Mouse,106.41,4
+41,26,Webcam,2043.29,4
+42,40,Mouse,2053.13,2
+43,4,Webcam,1653.47,4
+44,36,Webcam,2162.23,3
+45,83,Webcam,1278.41,5
+46,4,Keyboard,297.19,3
+47,75,Laptop,2406.7,3
+48,14,Webcam,1495.45,3
+49,56,Monitor,1519.45,5
+50,50,Headset,2249.76,2
+51,6,USB Hub,1774.87,1
+52,119,Webcam,2018.2,2
+53,56,Microphone,184.22,3
+54,41,Headset,1661.82,1
+55,65,Webcam,780.11,4
+56,52,Keyboard,1746.04,5
+57,25,Keyboard,1056.9,4
+58,79,USB Hub,1427.06,4
+59,107,Mouse,11.0,3
+60,56,Webcam,1966.53,5
+61,60,USB Hub,1110.04,2
+62,61,Monitor,1986.39,2
+63,37,Webcam,1293.47,5
+64,12,Headset,2047.86,2
+65,29,Laptop,2018.33,2
+66,6,Microphone,619.65,4
+67,109,Desk Chair,1923.53,4
+68,114,Desk Chair,1578.11,2
+69,64,Laptop,1005.13,2
+70,115,Desk Chair,1879.89,1
+71,29,Charger,447.95,5
+72,7,Charger,1397.93,1
+73,18,USB Hub,2005.52,5
+74,77,Microphone,800.06,4
+75,105,Desk Chair,1800.98,5
+76,107,Keyboard,2268.06,4
+77,96,Headset,2155.11,4
+78,97,USB Hub,625.62,3
+79,63,Charger,1570.59,3
+80,10,Headset,1786.72,2
+81,43,Monitor,806.07,5
+82,18,Keyboard,385.56,4
+83,91,Desk Chair,542.73,4
+84,43,Laptop,1361.09,4
+85,27,Microphone,2083.89,4
+86,90,Desk Chair,58.62,5
+87,62,Headset,24.67,3
+88,97,USB Hub,981.06,4
+89,96,Mouse,1839.23,5
+90,63,Charger,556.35,4
+91,4,Keyboard,978.24,4
+92,108,Microphone,1173.79,2
+93,69,Microphone,77.14,4
+94,73,Desk Chair,1660.86,1
+95,18,Laptop,2168.45,2
+96,34,Charger,953.96,2
+97,42,Headset,850.37,4
+98,97,Headset,2378.49,4
+99,107,USB Hub,213.94,1
+100,7,Mouse,2499.76,3
+101,84,Laptop,180.85,1
+102,32,Microphone,506.4,1
+103,20,Monitor,603.97,4
+104,73,Headset,2369.9,4
+105,99,Microphone,928.54,5
+106,96,Headset,1798.7,2
+107,14,Microphone,1450.91,3
+108,87,Desk Chair,2270.98,4
+109,92,Mouse,503.83,5
+110,14,Microphone,1746.0,3
+111,104,Laptop,311.42,5
+112,45,Monitor,1336.53,3
+113,65,Desk Chair,1622.37,1
+114,106,Webcam,1230.59,4
+115,82,Keyboard,2230.01,4
+116,56,Headset,448.57,5
+117,79,Charger,2022.41,5
+118,60,Headset,1094.57,5
+119,42,Headset,2130.76,1
+120,113,Microphone,1132.49,4

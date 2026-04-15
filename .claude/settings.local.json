@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmake *)",
+      "Bash(./build/mini_sql data/employees.csv -- \"SELECT * FROM employees\")",
+      "Bash(./build/mini_sql data/employees.csv -- \"SELECT name, salary FROM employees WHERE salary > 70000\")",
+      "Bash(./build/mini_sql data/employees.csv -- \"SELECT name, salary, hire_year FROM employees WHERE salary >= 65000 AND hire_year <= 2020\")",
+      "Bash(./build/mini_sql data/orders.csv -- \"SELECT order_id, product, status FROM orders WHERE status = 'delivered'\")",
+      "Bash(./build/mini_sql data/orders.csv -- \"SELECT order_id, employee_id, status FROM orders WHERE status = 'pending' OR status = 'shipped'\")",
+      "Bash(./build/mini_sql data/employees.csv data/departments.csv -- \"SELECT employees.name, employees.salary, departments.name, departments.location FROM employees JOIN departments ON employees.department_id = departments.id\")",
+      "Bash(./build/mini_sql data/employees.csv data/departments.csv -- \"SELECT employees.name, employees.salary, departments.name FROM employees JOIN departments ON employees.department_id = departments.id WHERE departments.name = 'Engineering'\")",
+      "Bash(./build/mini_sql data/employees.csv data/orders.csv -- \"SELECT e.name, o.product, o.amount FROM employees e JOIN orders o ON e.id = o.employee_id WHERE o.amount > 400\")",
+      "Bash(./build/mini_sql data/employees.csv -- \"SELECT name, salary FROM employees WHERE salary >= 60000 AND salary <= 80000\")",
+      "Bash(./build/mini_sql data/employees.csv data/orders.csv -- \"SELECT e.name, o.order_id, o.product, o.status FROM employees e JOIN orders o ON e.id = o.employee_id WHERE o.status != 'pending'\")",
+      "Bash(./build/mini_sql data/employees.csv data/departments.csv -- 'SELECT employees.name, departments.name FROM employees JOIN departments ON employees.department_id = departments.id')",
+      "Bash(python3 *)"
+    ]
+  }
+}

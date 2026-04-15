@@ -1,0 +1,3 @@
+/Users/nicolethenougat/Desktop/cs-projects/mini-sql-query/build/CMakeFiles/mini_sql.dir
+/Users/nicolethenougat/Desktop/cs-projects/mini-sql-query/build/CMakeFiles/edit_cache.dir
+/Users/nicolethenougat/Desktop/cs-projects/mini-sql-query/build/CMakeFiles/rebuild_cache.dir
